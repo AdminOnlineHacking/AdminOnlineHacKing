@@ -71,28 +71,5 @@
 
 </div>
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Wi-Fi Hacking Tutorial Demo - Step 11](https://youtu.be/xtDVlEbgiTg)
-- [How to easily Track Someones IP Address Location &  Internet](https://youtu.be/mwv8inOTIeo)
-- [How to Track Satellites Using SmartPhone in Hindi](https://youtu.be/Z1K01NLeQko)
-- [How to Install Hacking System Your Andriod Kali Linux, Windows, Any Linux, macOS](https://youtu.be/usR6he4rEk0)
-- [How to Install Kal Linux for Android Device without root use Termux](https://youtu.be/vHnzLwnaM-0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/OnlineHacking)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Xerosploit- A Man-In-The-Middle Attack Framework](https://www.onlinehacking-net.com/2020/11/xerosploit-man-in-middle-attack.html)
-- [World Best Powerfull DDos Attack Tool LOIC || Live Video || How to Install LOIC Tool any Linux, Windows, Android](https://www.onlinehacking-net.com/2020/10/Best-DDos-Attack-Package-Install.html)
-- [Top 3 World Live Cyber Attack Maps for Digital Threa](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [41 Best Hacking Apps For Android Rooted & Non Rooted 2020](https://www.onlinehacking-net.com/2020/10/t-hacking-apps-for-android-2020-1.html)
-- [Top 15 Best WiFi Hacking Android Apps for 2020](https://www.onlinehacking-net.com/2020/10/15-BestWiFi-Hacking-Apps.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.OnlineHacking-net.com)
+➡️ [More Blog Posts...](https://www.OnlineHacking.xyz)
